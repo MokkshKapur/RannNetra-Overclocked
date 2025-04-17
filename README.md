@@ -13,3 +13,24 @@ Tech Stack - ![image](https://github.com/user-attachments/assets/c6a1cb0a-e22a-4
 
 Deployment link - https://rannnetra.vercel.app/
 
+project structure 
+/src
+ ┣ /components
+ ┃ ┣ IntroSection.jsx
+ ┃ ┣ MapSection.jsx
+ ┃ ┣ StaticImageSection.jsx
+ ┃ ┣ SatelliteMapSection.jsx
+ ┃ ┗ AnalyticsSection.jsx
+ ┣ App.jsx
+ ┣ App.css
+ ┣ main.jsx
+/public
+ ┗ index.html
+/backend
+ ┣ api.py (or main.py)
+ ┣ utils/
+
+
+
+
+ 
