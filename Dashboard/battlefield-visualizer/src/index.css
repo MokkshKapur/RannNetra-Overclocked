@@ -1,0 +1,16 @@
+/* index.css */
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    color: #000;
+  }
+  
+  .hero, .analytics, .static-image {
+    padding: 2rem;
+  }
+  
+  h1, h2, p {
+    margin-bottom: 1rem;
+  }
+  
