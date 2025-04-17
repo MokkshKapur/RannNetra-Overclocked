@@ -1,0 +1,17 @@
+data:
+  dataset_path: "./data/raw/mcfd"
+  num_cameras: 3
+  frame_size: 128
+  sequence_length: 30
+  classes: ["normal", "prone", "injury"]
+
+model:
+  num_views: 3
+  hidden_units: 256
+  dropout_rate: 0.5
+  learning_rate: 0.001
+
+training:
+  batch_size: 8
+  epochs: 100
+  patience: 15
