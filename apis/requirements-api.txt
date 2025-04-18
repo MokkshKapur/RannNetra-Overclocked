@@ -1,7 +1,7 @@
-fastapi==0.95.0
-uvicorn==0.22.0
-inference-sdk==1.0.0
-opencv-python==4.6.0.66
-python-multipart==0.0.5
-pillow==9.2.0
-aiofiles==23.1.0
+fastapi
+uvicorn
+inference-sdk
+opencv-python
+python-multipart
+pillow
+aiofiles
